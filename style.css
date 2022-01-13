@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(question-mark-quiz-faq-puzzle-problem-seeking-advice-confusion-dicey-technology-background-149457849.jpg);
+color: white;
+
+}
+fieldset{
+    border-radius: 10px;
+    text-align: justify;
+    color: white;
+    }
+#result{
+    margin-left: 700px;
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
